@@ -17,16 +17,11 @@
   <img src="https://img.shields.io/npm/last-update/linktent?style=flat-square&labelColor=black&color=white" alt="NPM Last Update" />
 </p>
 
----
+## 🔽 About
 
-<div style="display: flex; align-items: center; gap: 24px; margin: 20px 0;">
-  <img src="./assets/showcase.gif" alt="linktent predictive hover intent prefetching simulation demo" width="450" style="flex-shrink: 0; border-radius: 8px;" />
-  <div style="flex: 1; min-width: 0;">
-    <code>linktent</code> tracks real-time mouse velocity and trajectory vectors to intelligently anticipate which link a user is navigating towards. This allows it to initiate predictive preloading 100-300ms before hover or touch occurs, providing a zero-latency navigations experience without blindly prefetching every link in viewport.
-  </div>
-</div>
+![linktent predictive hover intent prefetching simulation demo](./assets/showcase.gif)
 
----
+`linktent` tracks real-time mouse velocity and trajectory vectors to intelligently anticipate which link a user is navigating towards. This allows it to initiate predictive preloading 100-300ms before hover or touch occurs, providing a zero-latency navigations experience without blindly prefetching every link in viewport.
 
 ## 🚀 Live Demo & Simulation
 
@@ -37,8 +32,6 @@ To see the trajectory calculation and predictive collision ray in action, you ca
 npm run demo
 ```
 Then visit **http://localhost:3000** in your browser!
-
----
 
 ## 🛠️ How it works
 
