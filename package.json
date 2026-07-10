@@ -2,7 +2,7 @@
   "name": "linktent",
   "version": "1.0.0",
   "description": "Predict user hover intents using mouse velocity and trajectory vectors to prefetch React links for optimized loading times.",
-  "author": "Alexander <foralexpet@gmail.com> (https://github.com/foralexpet)",
+  "author": "Alexander <foralexpet+npm@gmail.com> (https://github.com/foralexpet)",
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",
