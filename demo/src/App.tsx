@@ -140,7 +140,7 @@ const styles: Record<string, React.CSSProperties> = {
     display: 'flex',
     flexDirection: 'column',
     alignItems: 'center',
-    justify-content: 'center',
+    justifyContent: 'center',
     color: '#ffffff',
     textDecoration: 'none',
     position: 'relative',
