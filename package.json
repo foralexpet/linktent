@@ -1,7 +1,7 @@
 {
   "name": "linktent",
   "version": "1.0.0",
-  "description": "Predict user hover intents using mouse velocity and trajectory vectors to prefetch React links predictive, cutting serverless API database overhead.",
+  "description": "Predict user hover intents using mouse velocity and trajectory vectors to prefetch React links for optimized loading times.",
   "author": "Alexander <https://github.com/foralexpet>",
   "license": "MIT",
   "main": "dist/index.js",
