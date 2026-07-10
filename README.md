@@ -19,11 +19,12 @@
 
 ---
 
-<img src="./assets/showcase.gif" align="left" width="500" style="margin-right: 20px; margin-bottom: 10px;" alt="linktent predictive hover intent prefetching simulation demo" />
-
-<code>linktent</code> tracks real-time mouse velocity and trajectory vectors to intelligently anticipate which link a user is navigating towards. This allows it to initiate predictive preloading 100-300ms before hover or touch occurs, providing a zero-latency navigations experience without blindly prefetching every link in viewport.
-
-<br clear="left"/>
+<div style="display: flex; align-items: center; gap: 24px; margin: 20px 0;">
+  <img src="./assets/showcase.gif" alt="linktent predictive hover intent prefetching simulation demo" width="450" style="flex-shrink: 0; border-radius: 8px;" />
+  <div style="flex: 1; min-width: 0;">
+    <code>linktent</code> tracks real-time mouse velocity and trajectory vectors to intelligently anticipate which link a user is navigating towards. This allows it to initiate predictive preloading 100-300ms before hover or touch occurs, providing a zero-latency navigations experience without blindly prefetching every link in viewport.
+  </div>
+</div>
 
 ---
 
