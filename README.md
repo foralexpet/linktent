@@ -17,17 +17,13 @@
   <img src="https://img.shields.io/npm/last-update/linktent?style=flat-square&labelColor=black&color=white" alt="NPM Last Update" />
 </p>
 
-<br/><br/>
+---
 
-<p align="center">
-  <img src="./assets/showcase.gif" alt="linktent predictive hover intent prefetching simulation demo" width="600" />
-</p>
+<img src="./assets/showcase.gif" align="left" width="500" style="margin-right: 20px; margin-bottom: 10px;" alt="linktent predictive hover intent prefetching simulation demo" />
 
-<br/>
+<code>linktent</code> tracks real-time mouse velocity and trajectory vectors to intelligently anticipate which link a user is navigating towards. This allows it to initiate predictive preloading 100-300ms before hover or touch occurs, providing a zero-latency navigations experience without blindly prefetching every link in viewport.
 
-<p align="center">
-  <code>linktent</code> tracks real-time mouse velocity and trajectory vectors to intelligently anticipate which link a user is navigating towards. This allows it to initiate predictive preloading 100-300ms before hover or touch occurs, providing a zero-latency navigations experience without blindly prefetching every link in viewport.
-</p>
+<br clear="left"/>
 
 ---
 
